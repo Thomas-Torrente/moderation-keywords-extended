@@ -3,7 +3,7 @@
 ## Français
 
 Liste noire de mots et expressions offensants en français et en anglais.  
-Générée automatiquement avec variantes d’accents, leetspeak, casse et remplacements d’espaces (_ et -).  
+Générée avec variantes d’accents, leetspeak, casse.  
 
 **Fichiers :**
 - `blacklist.txt` : liste originale  
@@ -17,7 +17,7 @@ Contient des termes offensants — à utiliser uniquement pour la modération au
 ## English
 
 Blacklist of offensive words and phrases in French and English.  
-Automatically generated with accented, leetspeak, case, and space-replacement variants (_ and -).  
+Generated with accented, leetspeak, case.  
 
 **Files:**
 - `blacklist.txt`: base list  
