@@ -10,7 +10,7 @@ Générée avec variantes d’accents, leetspeak, casse.
 - `blacklist.json` : format JSON  
 
 Usage : modération, filtrage, détection de langage toxique.  
-Contient des termes offensants — à utiliser uniquement pour la modération automatique.  
+Contient des termes offensants - à utiliser uniquement pour la modération automatique.  
 
 ---
 
@@ -24,4 +24,4 @@ Generated with accented, leetspeak, case.
 - `blacklist.json`: JSON format  
 
 Use for moderation, filtering, or toxicity detection only.  
-Contains offensive terms — for automated moderation use only.  
+Contains offensive terms - for automated moderation use only.  
